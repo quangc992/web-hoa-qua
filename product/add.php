@@ -86,7 +86,8 @@ if (isset($_GET['id'])) {
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
     <!-- tao form chữ conten bằng ckeditor -->
-    <script src="./ckeditor/ckeditor.js"></script>
+    <!-- <script src="./ckeditor/ckeditor.js"></script> -->
+    <script src="//cdn.ckeditor.com/4.16.1/standard/ckeditor.js"></script>
 
 </head>
 <body>
